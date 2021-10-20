@@ -4,7 +4,8 @@
     <h2>A bit about myself:</h2>
     <p>
       I am a sofware engineer and currently working as a systems administrator.
-      I love Linux and noodles and gusty ocean breezes
+      I love Linux and noodles and gusty ocean breezes. I enjoy reading, hiking,
+      and am slowly working my way to my dream of owning a boat
     </p>
   </div>
 </template>

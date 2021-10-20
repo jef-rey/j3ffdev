@@ -1,5 +1,6 @@
 <template>
   <Tutorial />
+  <!-- am i going to need this? -->
 </template>
 
 <script>
@@ -9,5 +10,4 @@ export default {}
 
 
 <style scoped>
-
 </style>

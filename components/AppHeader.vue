@@ -16,6 +16,7 @@
       </li>
     </ul>
   </header>
+  <!-- add backing photo? -->
 </template>
 
 <script>

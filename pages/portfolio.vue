@@ -1,8 +1,7 @@
 <template>
   <div>
-      <h1>
-          PORTFOLIO page
-      </h1>
+    <h1>PORTFOLIO page</h1>
+    <!-- am i gonna need this? -->
   </div>
 </template>
 
@@ -24,5 +23,4 @@ export default {
 </script>
 
 <style>
-
 </style>
