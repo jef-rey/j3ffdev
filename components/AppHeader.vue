@@ -37,6 +37,7 @@ body {
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px dotted #ccc;
+  font-family: 'Lucida Console', sans-serif;
 }
 
 .header .title {
