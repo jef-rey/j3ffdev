@@ -1,1 +1,0 @@
-export const SetCurrentLanguage = "SET_CurrentLanguage";
